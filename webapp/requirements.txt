@@ -1,9 +1,0 @@
-streamlit==1.22.0
-altair==4.2.2
-pandas
-numpy
-joblib
-xgboost
-category_encoders
-scikit-learn
-openpyxl
